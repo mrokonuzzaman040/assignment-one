@@ -432,6 +432,67 @@ input {
   
 }
 
+/* Bonus part  */
+.Clock-Div{
+margin: 0rem 8.2rem 4.8rem 8.2rem;
+width: calc(100% - 16.4rem);
+height: 10rem;
+display: flex;
+column-gap: 1.6rem;
+align-items: center;
+border-radius: 0.4rem;
+flex-shrink: 0;
+}
+
+.Clock-Group{
+  box-sizing: border-box;
+  padding: 1.8rem 1rem 1.7rem 1rem;
+  width: 9rem;
+  height: 100%;
+  background-color: #ffffff;
+  border-radius: 0.4rem;
+  flex-shrink: 0;
+}
+
+.Clock-Background{
+  width: 100%;
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+
+.Clock-Value{
+  margin-bottom: 0.8rem;
+  text-align: center;
+  font-size: 2.4rem;
+  font-weight: 800;
+  line-height: 1.2;
+  color: #272626;
+  font-family: Lato, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+.Time{
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.2;
+  color: rgba(39, 38, 38, 0.6000000238);
+  font-family: Lato, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+.Clock-Line{
+  margin-bottom: 0.7rem;
+  width: 100%;
+  height: 0.1rem;
+  background-color: rgba(0, 0, 0, 0.1000000015);
+  flex-shrink: 0;
+}
+
+
 /* Other Section Style  */
 .Other-Section {
   box-sizing: border-box;

@@ -362,16 +362,17 @@ input {
   align-items: baseline;
   flex-shrink: 0;
 }
-.webBody .Hot-Deal .Hot-Deal-Background .hot-deal-sale-up-to-25-off-uv1 .hot-deal-sale-up-to-25-off-uv1-sub-0 {
+.webBody .Hot-Deal .Hot-Deal-Background .hot-deal-sale-up-to-25-off-uv1 .Hot-Deal-text1 {
+
 }
-.webBody .Hot-Deal .Hot-Deal-Background .hot-deal-sale-up-to-25-off-uv1 .hot-deal-sale-up-to-25-off-uv1-sub-1 {
+.webBody .Hot-Deal .Hot-Deal-Background .hot-deal-sale-up-to-25-off-uv1 .Hot-Deal-text2 {
   font-size: 4rem;
   font-weight: 800;
   line-height: 1.2;
   color: #e55473;
   font-family: Lato, 'Source Sans Pro';
 }
-.webBody .Hot-Deal .Hot-Deal-Background .it-is-a-long-established-fact-that-a-reader-will-be-distracted-by-the-readable-content-of-a-page-when-looking-at-its-layout-3HT {
+.webBody .Hot-Deal .Hot-Deal-Background .Hot-Deal-Description {
   margin-bottom: 3.2rem;
   max-width: 57.2rem;
   text-align: center;
@@ -382,7 +383,7 @@ input {
   font-family: Lato, 'Source Sans Pro';
   flex-shrink: 0;
 }
-.webBody .Hot-Deal .Hot-Deal-Background .frame-1-72R {
+.webBody .Hot-Deal .Hot-Deal-Background .Hot-Deal-Button {
   margin: 0rem 22rem 0rem 19.7rem;
   width: calc(100% - 41.7rem);
   height: 6.4rem;
@@ -399,14 +400,14 @@ input {
   border-radius: 0.8rem;
   flex-shrink: 0;
 }
-.webBody .Hot-Deal .pngwing-8-Lfs {
+.webBody .Hot-Deal .Hot-Deal-Image {
   width: 31.8rem;
   height: 42rem;
   object-fit: cover;
   vertical-align: top;
   flex-shrink: 0;
 }
-.webBody .auto-group-q1sr-ewT {
+.webBody .Other-Section {
   box-sizing: border-box;
   padding: 12.8rem 24rem;
   width: 100%;
@@ -415,7 +416,7 @@ input {
   flex-direction: column;
   flex-shrink: 0;
 }
-.webBody .auto-group-q1sr-ewT .group-71-CCH {
+.webBody .Other-Section .Instagram-Section {
   margin: 0rem 43.4rem 4.8rem 43.4rem;
   width: calc(100% - 86.8rem);
   align-items: center;
@@ -423,7 +424,7 @@ input {
   flex-direction: column;
   flex-shrink: 0;
 }
-.webBody .auto-group-q1sr-ewT .group-71-CCH .instagram-igR {
+.webBody .Other-Section .Instagram-Section .Instagram-Titel {
   margin-bottom: 2.4rem;
   text-align: center;
   font-size: 4rem;
@@ -434,7 +435,7 @@ input {
   white-space: nowrap;
   flex-shrink: 0;
 }
-.webBody .auto-group-q1sr-ewT .group-71-CCH .it-is-a-long-established-fact-that-a-reader-will-be-distracted-by-the-readable-content-of-a-page-when-looking-at-its-layout-qW9 {
+.webBody .Other-Section .Instagram-Section .Instagram-Description {
   max-width: 57.2rem;
   text-align: center;
   font-size: 1.8rem;
@@ -444,7 +445,7 @@ input {
   font-family: Lato, 'Source Sans Pro';
   flex-shrink: 0;
 }
-.webBody .auto-group-q1sr-ewT .auto-group-bk8m-KgD {
+.webBody .Other-Section .Instagram-Image-Gallary {
   margin-bottom: 12.8rem;
   width: 100%;
   display: flex;
@@ -452,48 +453,48 @@ input {
   align-items: center;
   flex-shrink: 0;
 }
-.webBody .auto-group-q1sr-ewT .auto-group-bk8m-KgD .rectangle-3-FZs {
+.webBody .Other-Section .Instagram-Image-Gallary .Instagram-Image-one {
   width: 34.2rem;
   height: 39.6rem;
   object-fit: cover;
   vertical-align: top;
   flex-shrink: 0;
 }
-.webBody .auto-group-q1sr-ewT .auto-group-bk8m-KgD .rectangle-4-oLV {
+.webBody .Other-Section .Instagram-Image-Gallary .Instagram-Image-two {
   width: 34.2rem;
   height: 39.6rem;
   object-fit: cover;
   vertical-align: top;
   flex-shrink: 0;
 }
-.webBody .auto-group-q1sr-ewT .auto-group-bk8m-KgD .rectangle-5-MN1 {
+.webBody .Other-Section .Instagram-Image-Gallary .Instagram-Image-three {
   width: 34.2rem;
   height: 39.6rem;
   object-fit: cover;
   vertical-align: top;
   flex-shrink: 0;
 }
-.webBody .auto-group-q1sr-ewT .auto-group-bk8m-KgD .rectangle-6-Vz1 {
+.webBody .Other-Section .Instagram-Image-Gallary .Instagram-Image-four {
   width: 34.2rem;
   height: 39.6rem;
   position: relative;
   background-size: 173.728% 100%;
   background-position: -1.1535rem 0;
-  background-image: url('../assets/rectangle-6.png');
+  background-image: url('../assets/image/instagram/Rectangle\ 6.png');
   flex-shrink: 0;
 }
-.webBody .auto-group-q1sr-ewT .group-78-bn9 {
+.webBody .Other-Section .Subscribe-Section {
   box-sizing: border-box;
   padding: 12.2rem 28.7rem 12.1rem 28.7rem;
   width: 100%;
   height: 44.9rem;
   background-size: 100% 213.755%;
   background-position: 0 -20.3444rem;
-  background-image: url('../assets/rectangle-9-bg.png');
+  background-image: url('../assets/image/banner/subscriber.png');
   border-radius: 0.8rem;
   flex-shrink: 0;
 }
-.webBody .auto-group-q1sr-ewT .group-78-bn9 .group-77-YBb {
+.webBody .Other-Section .Subscribe-Section .Subscribe-BackGround {
   width: 100%;
   height: 100%;
   align-items: center;
@@ -501,7 +502,7 @@ input {
   flex-direction: column;
   border-radius: 0.8rem;
 }
-.webBody .auto-group-q1sr-ewT .group-78-bn9 .group-77-YBb .group-73-H9B {
+.webBody .Other-Section .Subscribe-Section .Subscribe-BackGround .Subscribe-Background {
   margin: 0rem 24.9rem 4.8rem 24.8rem;
   width: calc(100% - 49.7rem);
   align-items: center;
@@ -509,7 +510,7 @@ input {
   flex-direction: column;
   flex-shrink: 0;
 }
-.webBody .auto-group-q1sr-ewT .group-78-bn9 .group-77-YBb .group-73-H9B .get-the-latest-deals-cBT {
+.webBody .Other-Section .Subscribe-Section .Subscribe-BackGround .Subscribe-Background .Subscribe-Titel {
   margin-bottom: 1.6rem;
   text-align: center;
   font-size: 4rem;
@@ -520,7 +521,7 @@ input {
   white-space: nowrap;
   flex-shrink: 0;
 }
-.webBody .auto-group-q1sr-ewT .group-78-bn9 .group-77-YBb .group-73-H9B .coupon-for-first-shopping-XZK {
+.webBody .Other-Section .Subscribe-Section .Subscribe-BackGround .Subscribe-Background .Subscribe-Description {
   text-align: center;
   font-size: 1.8rem;
   font-weight: 400;
@@ -530,7 +531,7 @@ input {
   white-space: nowrap;
   flex-shrink: 0;
 }
-.webBody .auto-group-q1sr-ewT .group-78-bn9 .group-77-YBb .group-76-TC5 {
+.webBody .Other-Section .Subscribe-Section .Subscribe-BackGround .Input-Section {
   width: 100%;
   height: 6.4rem;
   display: flex;
@@ -538,7 +539,7 @@ input {
   border-radius: 0.8rem;
   flex-shrink: 0;
 }
-.webBody .auto-group-q1sr-ewT .group-78-bn9 .group-77-YBb .group-76-TC5 .group-75-omj {
+.webBody .Other-Section .Subscribe-Section .Subscribe-BackGround .Input-Section .Input-Email {
   margin-right: 1.6rem;
   box-sizing: border-box;
   padding: 2.3rem 2.25rem 2.1rem 2.25rem;
@@ -555,7 +556,7 @@ input {
   border-radius: 0.8rem;
   flex-shrink: 0;
 }
-.webBody .auto-group-q1sr-ewT .group-78-bn9 .group-77-YBb .group-76-TC5 .group-74-4hf {
+.webBody .Other-Section .Subscribe-Section .Subscribe-BackGround .Input-Section .Subscribe-BTN {
   width: 15rem;
   height: 100%;
   font-size: 2rem;
@@ -571,13 +572,13 @@ input {
   border-radius: 0.8rem;
   flex-shrink: 0;
 }
-.webBody .auto-group-q1sr-ewT .group-78-bn9 .group-78-bn9-bg {
+.webBody .Other-Section .Subscribe-Section .Subscribe-Section-bg {
   width: 144rem;
   height: 44.9rem;
   position: relative;
-  background-image: url('REPLACE_IMAGE:3957f49db10e005a9fdd3ab594e339f813aa578c');
+  background-image: url('/assets/image/hot-deal/pngwing\ 8.png');
 }
-.webBody .group-56-RwX {
+.webBody .Footer-Section {
   box-sizing: border-box;
   padding: 12.8rem 67.55rem 12.7rem 67.45rem;
   width: 192.2rem;
@@ -587,7 +588,7 @@ input {
   background-color: #111010;
   flex-shrink: 0;
 }
-.webBody .group-56-RwX .flowershop-Xjf {
+.webBody .Footer-Section .Footer-Description {
   margin: 0rem 0.6rem 2.4rem 0rem;
   font-size: 4.8rem;
   font-weight: 800;
@@ -599,21 +600,21 @@ input {
   align-items: baseline;
   flex-shrink: 0;
 }
-.webBody .group-56-RwX .flowershop-Xjf .flowershop-Xjf-sub-0 {
+.webBody .Footer-Section .Footer-Description .Span-One {
   font-size: 4.8rem;
   font-weight: 800;
   line-height: 1.2;
   color: #e55473;
   font-family: Lato, 'Source Sans Pro';
 }
-.webBody .group-56-RwX .flowershop-Xjf .flowershop-Xjf-sub-1 {
+.webBody .Footer-Section .Footer-Description .Span-Two {
   font-size: 4.8rem;
   font-weight: 800;
   line-height: 1.2;
   color: #ffffff;
   font-family: Lato, 'Source Sans Pro';
 }
-.webBody .group-56-RwX .it-is-a-long-established-fact-that-a-reader-will-be-distracted-by-the-readable-content-of-a-page-when-looking-at-its-layout-BBw {
+.webBody .Footer-Section .Footer-Description-End {
   margin-bottom: 3.2rem;
   max-width: 57.2rem;
   text-align: center;
@@ -624,7 +625,7 @@ input {
   font-family: Lato, 'Source Sans Pro';
   flex-shrink: 0;
 }
-.webBody .group-56-RwX .flowershopcom-all-rights-reserved-Rc5 {
+.webBody .Footer-Section .Footer-Copyright {
   margin-left: 0.2rem;
   text-align: center;
   font-size: 1.6rem;
